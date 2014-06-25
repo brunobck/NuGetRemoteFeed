@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetRemoteFeed", "NuGetRemoteFeed\NuGetRemoteFeed.csproj", "{7A591B97-0EBA-4907-8658-085F06800CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A591B97-0EBA-4907-8658-085F06800CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A591B97-0EBA-4907-8658-085F06800CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A591B97-0EBA-4907-8658-085F06800CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A591B97-0EBA-4907-8658-085F06800CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
